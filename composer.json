@@ -1,0 +1,19 @@
+{
+	"name": "xiaxiao002/variation-swatches-for-woocommerce",
+	"description": "",
+	"keywords": [
+		"wordpress",
+		"plugin"
+	],
+	"homepage":"https://github.com/xiaxiao002/variation-swatches-for-woocommerce",
+	"authors": [
+		{
+		"name": "variation-swatches-for-woocommerce",
+		"homepage":"https://eileenlue.com"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">5.6"
+	}
+}
